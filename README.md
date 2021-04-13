@@ -1,6 +1,8 @@
 ```js
  <DevHelper  :loadpath='loadpath' :listAPI='listAPI'  :listsocketAPI='listsocketAPI' ></DevHelper>
 ```
+### 快捷键打开
+> window + s
 
 ### loadpath
 > 文件上传地址
